@@ -1,5 +1,6 @@
 # Facial_Recognition_Attendance_Management_System
-An ML based model for teachers to take attendance using face authentication of students in the class to save time and increase instructing time.
+
+It is a system designed for marking the attendance of students. For marking attendance, organization usually ask for certain biometric authentication like signature, photo of the students. Our system uses the face recognition authentication feature for identifying the physical presence of students in the class. It will save the precious time of teachers as well as students and increases the accuracy of the record. It will greatly reduce any chance of proxies or false present being marked in the class.
 
 # Motivation
 
